@@ -63,6 +63,6 @@ class Prediction(Resource):
         confidence = loaded_model.predict_proba(sample)[0][0]
 
 
-        result = {'malignant_status': prediction, 'confidence': float(str(confidence))}
+        result = {'malignant_status': prediction, 'confidence': confidence}
 
         return jsonify(result)
