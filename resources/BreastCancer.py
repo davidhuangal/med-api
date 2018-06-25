@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 import numpy as np
 
-class Prediction(Resource):
+class BreastCancerPrediction(Resource):
 
     def post(self):
 
