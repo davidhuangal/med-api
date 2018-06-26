@@ -53,3 +53,10 @@ curl -X POST -H "Content-Type: application/json" -d @test2.json http://localhost
 ## TODO:
 * Implementing more classification features.
 * Add support for databases.
+
+## DISCLAIMER !!
+The words and other con­tent pro­vided in this project, and in any linked mate­ri­als, are not intended and should not be con­strued as med­ical advice. If the reader or any other per­son has a med­ical con­cern, he or she should con­sult with an appropriately-licensed physi­cian or other health care worker.
+
+Never dis­re­gard pro­fes­sional med­ical advice or delay in seek­ing it because of some­thing you garnered from this project or in any linked materials. If you think you may have a med­ical emer­gency, call your doc­tor immediately.
+
+The views expressed on this project have no rela­tion to those of any academic, hospital, practice or other insti­tu­tion with which the authors are  affiliated.
