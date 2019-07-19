@@ -1,4 +1,4 @@
-Flask==0.12.2
+Flask
 Flask-MySQLdb==0.2.0
 Flask-RESTful==0.3.6
 numpy==1.14.5
